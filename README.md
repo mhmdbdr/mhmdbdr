@@ -1,29 +1,50 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hi, my name is Mohammed Badr
-      </h1>
-    </summary>
-  </ul>
-</div>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>Mohammed Badr</i></b>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/mhmdbdr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/mhmdbdr" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/mohammed-badr-38a2a9255" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+[![](https://img.shields.io/badge/-@TheBoySavior-%23181717?style=flat-square&logo=github)](https://github.com/mhmdbdr)
+[![](https://img.shields.io/badge/-@TheBoySavior-%231DA1F2?style=flat-square&logo=leetcode)](https://leetcode.com/u/mohammedbadr268/)
+[![](https://img.shields.io/badge/-@TheBoySavior-%23181717?style=flat-square&logo=telegram)](https://t.me/Theboysavior)
+[![](https://img.shields.io/badge/-@TheBoySavior-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammedabadr)
+[![](https://img.shields.io/badge/-@TheBoySavior-%231DA1F2?style=flat-square&logo=codepen)](https://codepen.io/mhmdbdr)
+<br />
+<br />
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/mhmdbdr?label=Follow%20Me&style=social)](https://github.com/abdoelazizgamal)
 
- **<h3 align="left">Passionate front-end web developer using Vue.js to build all aspects of the user experience and user interface for client-facing web applications.</h3>**
+<br />
 
- **<h3 align="left">Skills</h3>**
+I'm a self-taught passionate Web developer from <b>Egypt</b>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="32" alt="NuxtJs" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="Jest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"></div>
+#### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
- **<h3 align="left">GitHub Stats</h3>**
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=Nuxt)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
+![Pug.js](https://img.shields.io/badge/Pug.js-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAAFoBAMAAACIy3zmAAAAG1BMVEXu7u7///9WMyvvzKNDJiHNrY8FAgGNcGHj2M5Gpj7uAAAPwElEQVR42uydzXPbuGnGhZ268ZFIx42OXQa2...)
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdbdr&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mhmdbdr&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
 
- **<h3 align="left">Support Me</h3>**
+🌍 **Deployment platforms:**
+<br>
+<br>
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
-<p align="left"><a href="https://paypal.me/MohammedBadr151" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+  
+  🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `Styled Components`, `i18Next`, `GSAP`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![MohhamedBadr's github stats](https://github-readme-stats.vercel.app/api?username=mhmdbdr&show_icons=true)
